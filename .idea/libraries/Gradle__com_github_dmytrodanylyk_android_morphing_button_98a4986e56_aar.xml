@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.dmytrodanylyk:android-morphing-button:98a4986e56@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/caches/transforms-2/files-2.1/1c63f114060c7d4e2380a5ffb85f4596/jetified-android-morphing-button-98a4986e56/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/caches/transforms-2/files-2.1/1c63f114060c7d4e2380a5ffb85f4596/jetified-android-morphing-button-98a4986e56/res" />
+      <root url="file://$USER_HOME$/caches/transforms-2/files-2.1/1c63f114060c7d4e2380a5ffb85f4596/jetified-android-morphing-button-98a4986e56/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
